@@ -1,0 +1,22 @@
+body {
+    color: white;
+}
+.form-inline .form-control {
+    width: 450px;
+}
+
+.search__contact {
+    display: flex;
+    justify-content: space-around;
+}
+.header__tool {
+    margin: 15px 0;
+}
+.header__contact p {
+    display: inline;
+    margin: 
+}
+.item__contact {
+    display: inline;    
+    margin: 0 20px;
+}
